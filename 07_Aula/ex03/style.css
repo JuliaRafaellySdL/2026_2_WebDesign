@@ -1,0 +1,20 @@
+body {
+    background-color: darkslategrey;
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+}
+
+h2{
+    text-align: left;
+    background-color: rgb(185, 185, 166);
+}
+
+ul {
+    columns: 2;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 250, 235);
+}
+
+h1 {
+    font-size: 100px;
+    color: rgb(0, 83, 28);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+    list-style-type: style ali;;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
